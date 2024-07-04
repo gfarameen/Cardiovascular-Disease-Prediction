@@ -12,7 +12,7 @@ The dataset used for identifying heart disease was sourced from the Kaggle platf
 ### 2. Data Preprocessing
 Data preprocessing is crucial in transforming raw data into a clean and usable format. This involves:
 
-- *Data Cleaning*: Addressing inconsistencies and missing values.
+- **Data Cleaning**: Addressing inconsistencies and missing values.
 - *Data Transformation*: Normalizing, scaling, and encoding categorical variables.
 - *Data Reduction*: Dimensionality reduction and feature selection to remove irrelevant or redundant information.
 
