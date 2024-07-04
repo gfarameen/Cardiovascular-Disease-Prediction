@@ -21,7 +21,7 @@ Preprocessing ensures the dataset is accurate, consistent, and formatted correct
 ### 3. Exploratory Data Analysis (EDA)
 Exploratory Data Analysis (EDA) involves investigating datasets to summarize their main characteristics and uncover patterns, anomalies, or relationships. This includes:
 
-- *Visualizing Data*: Using histograms, scatter plots, box plots, and other charts to identify trends, distributions, and outliers.
+- ##Visualizing Data##: Using histograms, scatter plots, box plots, and other charts to identify trends, distributions, and outliers.
 - *Summary Statistics*: Calculating mean, median, and standard deviation to describe central tendency and variability.
 - *Correlation Analysis*: Evaluating the relationships between different features using correlation matrices and heatmaps to identify highly correlated features.
 - *Distribution Analysis*: Checking the distribution of key features such as smoking, age, gender etc to understand their impact on heart disease .
