@@ -1,4 +1,4 @@
-# Heart Disease Prediction using Machine Learning
+# Cardiovascular Disease Prediction
 
 ## Introduction
 Heart disease remains one of the leading causes of mortality worldwide, posing significant challenges to healthcare systems. Early detection and accurate prediction of heart disease can greatly enhance the chances of successful treatment and prevention, ultimately saving lives and reducing healthcare costs. Traditional methods of diagnosing heart disease often rely on subjective clinical evaluations and invasive procedures, which can be time-consuming and uncomfortable for patients. This project aims to utilize machine learning techniques to predict heart disease effectively and non-invasively.
